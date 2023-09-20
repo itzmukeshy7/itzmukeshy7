@@ -23,6 +23,7 @@ Work Experience:
 **Senior Salesforce Developer** - Spring SOA
 
 2018 - Present
+
 - Worked on the Five9 API to override the default task and create the flow after dialing or receiving calls.
 - Integrated multiple REST APIs to send and receive data with two-way syncing.
 - Created a Chrome extension to automate test record creation in Salesforce for the QA members.
@@ -34,6 +35,7 @@ Work Experience:
 **Senior Salesforce Developer** - Concretio Apps
 
 2016 - 2018
+
 - Worked on Salesforce AppExchange Application development.
 - Developed an AppExchange accounting application from scratch, which was Lightning-enabled.
 - Led the development of a Lightning-enabled AppExchange accounting application that passed security reviews.
@@ -43,6 +45,7 @@ Work Experience:
 **PHP Developer** - Webcontxt Technologies
 
 2013 - 2016
+
 - Developed an event ticketing system for events registration and ticketing.
 - Built a selfie photo booth that made its way to the Limca Book of Records.
 - Developed a social media aggregator tool with 10+ social media platforms integration.
