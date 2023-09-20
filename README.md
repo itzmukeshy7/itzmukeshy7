@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-Mukesh Yadav
-
----
-
-Mukesh Yadav
-[tmp at itzmukeshy7 dot dev]
+I'm Mukesh Yadav
 
 ---
 
