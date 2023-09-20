@@ -6,10 +6,10 @@ I'm Mukesh Yadav
 
 Seasoned full-stack engineer with almost a decade of experience in the IT industry. Salesforce expert skilled in solving complex challenges without hitting governor limits. Committed to writing optimized, well-formatted, and documented code following best practices. Active community contributor and mentor.
 
-<h3 align="left">Languages and Tools:</h3>
+**Languages and Tools:**
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Skills:
+**Skills:**
 - Salesforce Development
 - Full-Stack Development
 - JavaScript
@@ -18,9 +18,9 @@ Skills:
 - Performance Optimization
 - Team Management
 
-Work Experience:
+**Work Experience:**
 
-**Senior Salesforce Developer** - Spring SOA
+Senior Salesforce Developer - Spring SOA
 
 2018 - Present
 
@@ -32,7 +32,7 @@ Work Experience:
 - Mentored team members on clean code practices and best practices.
 - Created generic reusable components for various application parts.
 
-**Senior Salesforce Developer** - Concretio Apps
+Senior Salesforce Developer - Concretio Apps
 
 2016 - 2018
 
@@ -42,7 +42,7 @@ Work Experience:
 - Worked on a two-way data sync application between Salesforce, QuickBooks Online, and Xero accounting systems.
 - Handled the security review process for AppExchange applications.
 
-**PHP Developer** - Webcontxt Technologies
+PHP Developer - Webcontxt Technologies
 
 2013 - 2016
 
@@ -55,25 +55,25 @@ Certifications:
 - Certified Platform Developer I
 - Certified JavaScript Developer
 
-Projects:
+**Projects:**
 
-**Lightning-enabled AppExchange Accounting Application**
+Lightning-enabled AppExchange Accounting Application
 - Developed an accounting application from scratch that passed security reviews.
 
-**Automation of Scratch Org Creation**
+Automation of Scratch Org Creation
 - Built a Python service to automate scratch org creation, reducing setup time from 8-10 hours to 15 minutes.
 
-**Chrome Extension for QA Automation**
+Chrome Extension for QA Automation
 - Developed a Chrome extension for automated test record creation in Salesforce.
 
-Education:
+**Education:**
 - Bachelor of Computer Application (BCA)
   - Compucom Institute of Technology
   - Year of Graduation: 2012
 
-Awards and Recognitions:
+**Awards and Recognitions:**
 - The Geek - 2014 - Webcontxt Technologies
 - Employee of the Year - 2020 - Spring SOA
 
-Community Engagement:
+**Community Engagement:**
 - Active contributor on Stack Overflow, Salesforce, and Stack Exchange.
